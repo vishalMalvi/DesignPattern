@@ -24,7 +24,6 @@ class MenClothingFactory: ClothingFactory {
     func createPants() -> Pants {
         return MenPants()
     }
-    
 }
 
 class WomenClothingFactory: ClothingFactory {
