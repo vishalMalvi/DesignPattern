@@ -8,13 +8,13 @@ Creational design patterns are a category of design patterns that focus on objec
 
 * Singleton Pattern: Ensures that a class has only one instance and provides a global point of access to it.
 
-* Factory: The factory pattern is used when you want to create objects without exposing the creation logic to the client. This pattern is useful when you have multiple implementations of an interface and you want to create objects based on a runtime decision.
+* Factory Pattern: The factory pattern is used when you want to create objects without exposing the creation logic to the client. This pattern is useful when you have multiple implementations of an interface and you want to create objects based on a runtime decision.
 
-* Abstract Factory: The abstract factory pattern is used when you want to create families of related objects without specifying their concrete classes. This pattern is useful when you have multiple related implementations of an interface and you want to create objects based on a runtime decision.
+* Abstract Factory Pattern: The abstract factory pattern is used when you want to create families of related objects without specifying their concrete classes. This pattern is useful when you have multiple related implementations of an interface and you want to create objects based on a runtime decision.
 
-* Builder: The builder pattern is used when you want to create complex objects step by step. This pattern is useful when you have complex objects with a large number of parameters.
+* Builder Pattern: The builder pattern is used when you want to create complex objects step by step. This pattern is useful when you have complex objects with a large number of parameters.
 
-* Prototype: The prototype pattern is used when you want to create objects based on existing objects. This pattern is useful when you have an existing object that you want to modify and use as a starting point for creating new objects.
+* Prototype Pattern: The prototype pattern is used when you want to create objects based on existing objects. This pattern is useful when you have an existing object that you want to modify and use as a starting point for creating new objects.
 
 ## Structural Design Patterns
 
