@@ -63,6 +63,7 @@ class MozzarellaCheese: PizzaDecorator {
 }
 
 
+// Usage
 var pizza: Pizza = MargheritaPizza()
 print(pizza.getDescription()) //Margherita Pizza
 print(pizza.getCost()) // 10.0

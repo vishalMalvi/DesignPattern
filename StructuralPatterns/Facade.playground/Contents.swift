@@ -37,7 +37,7 @@ class AudioPlayerFacade {
     }
 }
 
-// code
+// Usage
 let audioPlayerFacade = AudioPlayerFacade()
 audioPlayerFacade.playMusic() // "Loading song..." and "Playing song..."
 audioPlayerFacade.pauseMusic() // "Pausing song..."
