@@ -27,7 +27,7 @@ class CarBuilder {
     }
     
     func build() -> Car? {
-        guard let model = model, let color = color else {
+        guard let model, let color else {
             return nil
         }
         
